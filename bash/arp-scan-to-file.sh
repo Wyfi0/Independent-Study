@@ -7,4 +7,3 @@ out_file="$(date +%D-%R)"
 working_dir="$(pwd)"
 
 # Make the file according to the out_file and say hello!
-touch "$working_dir/$out_file"
