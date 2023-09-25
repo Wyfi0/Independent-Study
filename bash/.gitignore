@@ -1,0 +1,3 @@
+# ignore all .txt files. good ol wildcards
+*.txt
+
