@@ -1,0 +1,2 @@
+# Dont use compiled c files
+*.out
